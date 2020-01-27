@@ -215,6 +215,7 @@ def most_points_scored
   mvp
 end
 ########################################################################
+<<<<<<< HEAD
 def winning_team
   total_points = 0
    win_team = ''
@@ -253,3 +254,5 @@ def long_name_steals_a_ton?
   return true if steals_most == player_with_longest_name
 end
 ########################################################################
+=======
+>>>>>>> 459180585453b08e2934dc149aa3dc93c9d01534
